@@ -3,7 +3,7 @@ A simple 8-hour work scheduler using dayjs, jquery, javascript html,css. The app
 
 ## Link to Application
 
-Please see the link to the deployed application here: (link)[https://omarx.github.io/Work-Day-Scheduler/]
+Please see the link to the deployed application here: [link](https://omarx.github.io/Work-Day-Scheduler/)
 
 ## Screenshot
 
